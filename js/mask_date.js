@@ -1,4 +1,4 @@
-function mask(inputName, mask, evt) {
+/*function mask(inputName, mask, evt) {
     
         var text = document.getElementById(inputName);
         var value = text.value;
@@ -26,4 +26,4 @@ function mask(inputName, mask, evt) {
         }
         text.value = newValue;
 
-}
+}*/

@@ -10,3 +10,8 @@ th{
     font-weight: bold;
     background-color: #E6E6E6;
 }
+a{
+    color: #000000 !important;
+    text-decoration: none;
+    cursor: pointer;
+}
